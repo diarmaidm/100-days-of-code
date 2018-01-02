@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 01, 2018
+### Day 1: Monday January 01, 2018
 
 **Today's Progress:**
 * Tweeted public commitment.
@@ -8,14 +8,31 @@
 * Started new app using [Angular Quickstart](https://angular.io/guide/quickstart).
 
 **Thoughts:** 
-I struggled with the decision to commit to this challenge.
-I think it will be a good experience and help me maintain focus.
+
+* I struggled with the decision to commit to this challenge.
+* I think it will be a good experience and help me maintain focus.
 
 **Link(s) to work:**
 
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 [Angular project](https://github.com/diarmaidm/farm)
+
+---
+
+### Day 2: Tuesday January 02, 2018
+
+**Today's Progress:** 
+* Captured screenshots that will form basis of project.
+* Saved screenshots on machine and excluded from project source.
+* Opened old Access DB using [Microsoft Access Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=39358)
+
+**Thoughts:**
+
+* I had a lot going on and almost put off. It would have been soooo easy...
+
+**Link(s) to work:**
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 ---
 
@@ -30,3 +47,40 @@ I think it will be a good experience and help me maintain focus.
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 ---
+
+### Day x: January xx, 2018
+
+**Today's Progress:** 
+##### (template progress - delete me or comment me out)
+
+**Thoughts:** ...
+
+**Link(s) to work:**
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+---
+
+### Day x: January xx, 2018
+
+**Today's Progress:** 
+##### (template progress - delete me or comment me out)
+
+**Thoughts:** ...
+
+**Link(s) to work:**
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+---
+
+### Day x: January xx, 2018
+
+**Today's Progress:** 
+##### (template progress - delete me or comment me out)
+
+**Thoughts:** ...
+
+**Link(s) to work:**
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+---
+
