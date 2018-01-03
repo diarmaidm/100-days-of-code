@@ -40,6 +40,9 @@
 
 **Today's Progress:** 
 * Continued on Angular quickstart.
+* Added new stock component.
+* Fixed failing tests.
+* Checked code coverage was working, run `ng test --code-coverage` or `npm test -- --code-coverage` and `open coverage/index.html`
 
 **Thoughts:** ...
 
