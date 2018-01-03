@@ -36,6 +36,21 @@
 
 ---
 
+### Day 3: Wednesday January 03, 2018
+
+**Today's Progress:** 
+* Continued on Angular quickstart.
+
+**Thoughts:** ...
+
+**Link(s) to work:**
+
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+[Angular project](https://github.com/diarmaidm/farm)
+
+---
+
 ### Day x: January xx, 2018
 
 **Today's Progress:** 
@@ -44,6 +59,7 @@
 **Thoughts:** ...
 
 **Link(s) to work:**
+
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 ---
@@ -56,6 +72,7 @@
 **Thoughts:** ...
 
 **Link(s) to work:**
+
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 ---
@@ -68,18 +85,7 @@
 **Thoughts:** ...
 
 **Link(s) to work:**
-[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
----
-
-### Day x: January xx, 2018
-
-**Today's Progress:** 
-##### (template progress - delete me or comment me out)
-
-**Thoughts:** ...
-
-**Link(s) to work:**
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
 ---
