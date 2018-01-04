@@ -54,10 +54,10 @@
 
 ---
 
-### Day x: January xx, 2018
+### Day 4: Thursday January 04, 2018
 
 **Today's Progress:** 
-##### (template progress - delete me or comment me out)
+* Continued work on angular project.
 
 **Thoughts:** ...
 
