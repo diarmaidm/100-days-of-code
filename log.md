@@ -58,12 +58,18 @@
 
 **Today's Progress:** 
 * Continued work on angular project.
+* Fixed failing tests.
+* Fixed lint errors.
+* Added a new script to run code coverage and open code coverage report.
+* Added a stock class.
 
 **Thoughts:** ...
 
 **Link(s) to work:**
 
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+[Angular project](https://github.com/diarmaidm/farm)
 
 ---
 
