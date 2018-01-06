@@ -7,7 +7,7 @@
 * Cloned repository.
 * Started new app using [Angular Quickstart](https://angular.io/guide/quickstart).
 
-**Thoughts:** 
+**Thoughts:**
 
 * I struggled with the decision to commit to this challenge.
 * I think it will be a good experience and help me maintain focus.
@@ -22,7 +22,7 @@
 
 ### Day 2: Tuesday January 02, 2018
 
-**Today's Progress:** 
+**Today's Progress:**
 * Captured screenshots that will form basis of project.
 * Saved screenshots on machine and excluded from project source.
 * Opened old Access DB using [Microsoft Access Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=39358)
@@ -38,7 +38,7 @@
 
 ### Day 3: Wednesday January 03, 2018
 
-**Today's Progress:** 
+**Today's Progress:**
 * Continued on Angular quickstart.
 * Added new stock component.
 * Fixed failing tests.
@@ -56,7 +56,7 @@
 
 ### Day 4: Thursday January 04, 2018
 
-**Today's Progress:** 
+**Today's Progress:**
 * Continued work on angular project.
 * Fixed failing tests.
 * Fixed lint errors.
@@ -75,8 +75,24 @@
 
 ### Day 5: Friday January 05, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+* Extended stock with additional details.
+* Added two way data biniding to stock component.
+
+**Thoughts:** ...
+
+**Link(s) to work:**
+
+[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
+
+[Angular project](https://github.com/diarmaidm/farm)
+
+---
+
+### Day 6: Saturday January 06, 2018
+
+**Today's Progress:**
+* Fix code coverage issue on stock class.
 
 **Thoughts:** ...
 
@@ -90,8 +106,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -105,8 +121,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -120,8 +136,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -135,8 +151,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -150,8 +166,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -165,8 +181,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -180,8 +196,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -195,8 +211,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -210,8 +226,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -225,8 +241,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -240,8 +256,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -255,8 +271,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -270,8 +286,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -285,8 +301,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -300,8 +316,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -315,8 +331,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -330,8 +346,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -345,8 +361,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -360,8 +376,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -375,8 +391,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -390,8 +406,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -405,8 +421,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -420,8 +436,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -435,8 +451,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -450,23 +466,8 @@
 
 ### Day x: January xx, 2018
 
-**Today's Progress:** 
-* 
-
-**Thoughts:** ...
-
-**Link(s) to work:**
-
-[Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
-
-[Angular project](https://github.com/diarmaidm/farm)
-
----
-
-### Day x: January xx, 2018
-
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -480,8 +481,8 @@
 
 ### Day x: February xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
@@ -495,8 +496,8 @@
 
 ### Day x: February xx, 2018
 
-**Today's Progress:** 
-* 
+**Today's Progress:**
+*
 
 **Thoughts:** ...
 
