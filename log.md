@@ -104,10 +104,11 @@
 
 ---
 
-### Day x: January xx, 2018
+### Day 7: Sunday January 07, 2018
 
 **Today's Progress:**
-*
+* Create mock stock
+* Display list stock using *ngFor
 
 **Thoughts:** ...
 
