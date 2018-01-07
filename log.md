@@ -109,6 +109,7 @@
 **Today's Progress:**
 * Create mock stock
 * Display list stock using *ngFor
+* Add style to make look reasonable (copy pasted from quickstart)
 
 **Thoughts:** ...
 
