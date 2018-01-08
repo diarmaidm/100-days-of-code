@@ -121,12 +121,15 @@
 
 ---
 
-### Day x: January xx, 2018
+### Day 8: Monday January 08, 2018
 
 **Today's Progress:**
-*
+* Didn't get much done today, Getting back to the real world eating up time.
+* Done research on testing events to fix code coverage hole.
 
-**Thoughts:** ...
+**Thoughts:**
+* Need to do more research on testing Angular app (and specifically how to TDD)
+* I forgot to send my tweet after yesterdays hour.
 
 **Link(s) to work:**
 
