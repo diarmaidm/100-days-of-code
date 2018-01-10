@@ -139,12 +139,14 @@
 
 ---
 
-### Day x: January xx, 2018
+### Day 9: Tuesday January 09, 2018
 
 **Today's Progress:**
-*
+* Done some reading about testing angular events
+* Changed this repository from a fork to a copy of the forked repository - contributions to forks dont count in commit history (except after a pull request, if I remember correctly)
 
-**Thoughts:** ...
+**Thoughts:**
+* This is a decent commitment. I have to move the daily hour up on my daily TODO list.
 
 **Link(s) to work:**
 
