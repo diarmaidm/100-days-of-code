@@ -156,7 +156,7 @@
 
 ---
 
-### Day 10: Wednesday: January 10, 2018
+### Day 10: Wednesday January 10, 2018
 
 **Today's Progress:**
 * Didnt work on angular app.
@@ -168,12 +168,15 @@
 
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
+[Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
+
 ---
 
-### Day x: January xx, 2018
+### Day 11: Thursday January 11, 2018
 
 **Today's Progress:**
-*
+* Continued looking at UDACity ML and Ai course.
+* Still on Module 8 - Outliers
 
 **Thoughts:** ...
 
@@ -181,7 +184,7 @@
 
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
 
-[Angular project](https://github.com/diarmaidm/farm)
+[Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
 
 ---
 
