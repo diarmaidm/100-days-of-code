@@ -156,18 +156,17 @@
 
 ---
 
-### Day x: January xx, 2018
+### Day 10: Wednesday: January 10, 2018
 
 **Today's Progress:**
-*
+* Didnt work on angular app.
+* Started catching up on UDACity ML and AI course
 
 **Thoughts:** ...
 
 **Link(s) to work:**
 
 [Progress Log](https://github.com/diarmaidm/100-days-of-code/blob/master/log.md)
-
-[Angular project](https://github.com/diarmaidm/farm)
 
 ---
 
